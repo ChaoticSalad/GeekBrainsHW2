@@ -1,0 +1,14 @@
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\bin\Debug\WorkersPrj.exe.config
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\bin\Debug\WorkersPrj.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\bin\Debug\WorkersPrj.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\obj\Debug\WorkersPrj.csprojAssemblyReference.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\obj\Debug\WorkersPrj.csproj.CoreCompileInputs.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\obj\Debug\WorkersPrj.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Workers\WorkersPrj\obj\Debug\WorkersPrj.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\bin\Debug\WorkersPrj.exe.config
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\bin\Debug\WorkersPrj.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\bin\Debug\WorkersPrj.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\obj\Debug\WorkersPrj.csprojAssemblyReference.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\obj\Debug\WorkersPrj.csproj.CoreCompileInputs.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\obj\Debug\WorkersPrj.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\WorkersPrj\obj\Debug\WorkersPrj.pdb

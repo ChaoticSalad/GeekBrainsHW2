@@ -1,0 +1,14 @@
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\bin\Debug\Game.exe.config
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\bin\Debug\Game.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\bin\Debug\Game.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\obj\Debug\Game.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Gaem\Game\obj\Debug\Game.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\bin\Debug\Game.exe.config
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\bin\Debug\Game.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\bin\Debug\Game.pdb
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\obj\Debug\Game.exe
+D:\C# Pr\Git Projects\GeekBrainsHW2\Game\obj\Debug\Game.pdb
